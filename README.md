@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create React App [![Build Status](https://travis-ci.com/diegowinter/pratica_travisci.svg?branch=main)](https://travis-ci.com/diegowinter/pratica_travisci)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
